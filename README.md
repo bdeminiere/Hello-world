@@ -13,7 +13,4 @@ But why am I working so hard? Well, I have a very specific long-term personal pr
 Well, I think you now have a great idea of who I am. Any questions? Or do you wish to work with my very atypical personality and approach to life and problems? Don’t hesitate to contact me—I am easy to approach and discuss with, no worries 😉.
 Take care of yourself—you only have one life 🤎✨
 
-<<<<<<< HEAD
-To use images from your repo in readme, reference the image using this format
-
-![My little baby girl in front of the Nideck Wterfall](https://github.com/bdeminiere/Hello-world#:~:text=babyboo%2Dnideckwaterfall.pdf)
+![My little baby girl in front of the Nideck Waterfall](https://github.com/[bdeminiere]/[Hello-world]/blob/[main]/babyboo-nideckwaterfall.pdf?raw=true)
