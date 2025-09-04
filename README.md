@@ -15,4 +15,4 @@ Take care of yourself—you only have one life 🤎✨
 
 To use images from your repo in readme, reference the image using this format
 
-https://github.com/{bdeminiere}/{Hello-world}/raw/{main}/art/{babyboo-nideckwaterfall.pdf}
+![My little baby girl in front of the Nideck Wterfall](https://myoctocat.com/assets/images/base-octocat.svg)
